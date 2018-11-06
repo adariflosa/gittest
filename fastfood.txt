@@ -1,3 +1,5 @@
 burger
 pizza
 kebab
+fries
+hotdog
