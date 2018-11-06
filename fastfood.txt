@@ -4,5 +4,6 @@ fries
 hotdog
 tacos
 noodles
-line7
-line8
+cake
+chips
+crepes
