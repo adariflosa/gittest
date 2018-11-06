@@ -7,3 +7,5 @@ noodles
 cake
 chips
 crepes
+chocolate
+kumpir
