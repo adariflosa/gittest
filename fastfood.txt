@@ -4,15 +4,4 @@ fries
 hotdog
 tacos
 noodles
-<<<<<<< HEAD
-
-=======
-cake
-chips
-crepes
-<<<<<<< HEAD
->>>>>>> feature-2
-=======
-chocolate
-kumpir
->>>>>>> feature-2
+fastfood1
