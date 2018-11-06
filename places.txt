@@ -3,7 +3,10 @@ Stockolm
 Paris
 Prague
 Athens
+<<<<<<< HEAD
 line5
 line7
 line8
 line9
+=======
+>>>>>>> feature-2

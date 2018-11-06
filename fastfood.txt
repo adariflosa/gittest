@@ -4,4 +4,10 @@ fries
 hotdog
 tacos
 noodles
+<<<<<<< HEAD
 
+=======
+cake
+chips
+crepes
+>>>>>>> feature-2
